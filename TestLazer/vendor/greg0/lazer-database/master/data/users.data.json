@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john@example.com"
+    },
+    {
+        "id": 2,
+        "username": "jane_doe",
+        "email": "jane@example.com"
+    },
+    {
+        "id": 3,
+        "email": "phanduc213@gmail.com",
+        "password": "$2y$10$5\/qRN824jhO7HqCaFIZYpeBP7OHoQX8\/TLRrAmPWuvWQgE\/U\/099i"
+    },
+    {
+        "id": 4,
+        "email": "phanduc123@gmail.com",
+        "password": "$2y$10$mH7.AwlbJOJRh1qI3shcWeSDM2dEkdBs6eD7pggfAKbXVbeDPZzNO"
+    },
+    {
+        "id": 5,
+        "email": "test@gmail.com",
+        "password": "$2y$10$e9dP6n4zIlo4.nEXCKDLKu0zsAKne3M\/rINaTABklc6nMxSWNnole"
+    },
+    {
+        "id": 6,
+        "email": "test1@gmail.com",
+        "password": "$2y$10$F1o2JyCqYhMgRBeFvoKKlOe5.X0jzaqZpYlGMEn6\/iKG\/B5fMxgqS"
+    },
+    {
+        "id": 7,
+        "email": "phanduc1234@gmail.com",
+        "password": "$2y$10$QSfdB.nrMC4O9FGgyj9aRe5P7P2cd9fizl2\/qzXLGP7Ll3tjmvsKK"
+    },
+    {
+        "id": 8,
+        "email": "duc@gmail.com",
+        "password": "$2y$10$Hl2sYMRG3N6Brd2Lcx5KTO\/mR4JpcgMudUZaC2udn18U39Cjhk.Iq"
+    },
+    {
+        "id": 9,
+        "email": "duc1@gmail.com",
+        "password": "$2y$10$u2SXwuYIZyzghELfppKKcuTwNTXa4XYwQ2zMMFxRl21QRMnc\/ILRi"
+    },
+    {
+        "id": 10,
+        "email": "duc2@gmail.com",
+        "password": "$2y$10$nIA53eDj4giIAEth9tPvNetn5Jr11zaN3HVKMQXRH5\/DsjgJvoib."
+    },
+    {
+        "id": 11,
+        "email": "duc3@gmail.com",
+        "password": "$2y$10$hGE48BIuZdx0cjA7243nM.S8ghlIUM3sXgkkM6W3K7qSXyrs2sgH6"
+    },
+    {
+        "id": 12,
+        "email": "duc4@gmail.com",
+        "password": "$2y$10$Wh0cN5uTVkvSwpm\/NqdB0.sN5AfERxoEPuYK6wBS03IizOqppthZi"
+    },
+    {
+        "id": 13,
+        "email": "duc5@gmail.com",
+        "password": "$2y$10$8rl892PJUoCWPQcvC6JKU.oqXdQQb1QX1edzb2AdJglSdb5R09xc2"
+    },
+    {
+        "id": 14,
+        "email": "duc6@gmail.com",
+        "password": "$2y$10$FD1aPfVu.05FrzuuwtY2SuXpAbTpy4YSRaBzrzyWWyBONpQHWh.p6"
+    },
+    {
+        "id": 15,
+        "email": "duc8@gmail.com",
+        "password": "$2y$10$vyHbOOgZX3nR7FKfouFIUONzjMgbfzlGYWe1xVUoFLHdCq39vY7Qq"
+    },
+    {
+        "id": 16,
+        "email": "duc9@gmail.com",
+        "password": "$2y$10$MYIw.R5dFZc3DROHO7c.OeOIBCNf5qSJJZZHqRsboYBsdXxGzUUo6"
+    },
+    {
+        "id": 17,
+        "email": "duc10@gmail.com",
+        "password": "$2y$10$2c5HRl8XVFAe41a4kS.bl.Bv1X\/faqPyh94tKZFQ.oNW.sL1uDBra"
+    },
+    {
+        "id": 18,
+        "email": "duc11@gmail.com",
+        "password": "$2y$10$4ID0CTBeHm4Xh7WvYnz1DOFg.E9zYAz8mgZyKzLVRylzGMMdZN8Gu"
+    },
+    {
+        "id": 19,
+        "email": "duc12@gmail.com",
+        "password": "$2y$10$lfJr2mDm7oYP5EI50q4fGu4JVGLlz12pALQtAz2oZtXMJ3wsyyqOu"
+    },
+    {
+        "id": 20,
+        "email": "duc13@gmail.com",
+        "password": "$2y$10$bVyEn9nmr8c45aLgVdr7z.J\/3MEnEZgKtu\/ob.v1ePyIbUCqWAgpW"
+    },
+    {
+        "id": 21,
+        "email": "duc14@gmail.com",
+        "password": "$2y$10$M3rzLCzt982Tfmz4wmMl6ONCYoakX4qGGYi7cNqY9COAKQWQNxUOC"
+    },
+    {
+        "id": 22,
+        "email": "duc15@gmail.com",
+        "password": "$2y$10$Z0NTt19vV6sxNeSdFWP67ePj4aoCj8WOnn1hI4iWckQNI6xRWhdim"
+    },
+    {
+        "id": 23,
+        "email": "duc16@gmail.com",
+        "password": "$2y$10$e0iyHX7PRaklIJlVIpRzremHvq8P3t9YUuaIVp1MG0EbQL4K5j3\/6"
+    },
+    {
+        "id": 24,
+        "email": "duc17@gmail.com",
+        "password": "$2y$10$LAK0XMaffuZMC448l78cG.8Oenmm\/3yvzBplABNfjoN5yVHtVdYLu"
+    },
+    {
+        "id": 25,
+        "email": "duc18@gmail.com",
+        "password": "$2y$10$XeSiRtEbhmlertVBAG9z4ulPmRbmBHepkVSUpDDG7gVziFc7kjYsa"
+    },
+    {
+        "id": 26,
+        "email": "duc19@gmail.com",
+        "password": "$2y$10$sj\/4t7CHXSYDeHI87gvSV.5lQdnKXE63xgX.aKuGa5lOMyjpbVp\/."
+    },
+    {
+        "id": 27,
+        "email": "admin@gmail.com",
+        "password": "$2y$10$ZJNsatfKPDGmIrSEsxzCveqECMf0e9DzAL7RaTdKqrRkY9eoqY.Ba"
+    },
+    {
+        "id": 28,
+        "email": "duc82@gmail.com",
+        "password": "$2y$10$nxw8a\/sd2Wc3.06hjj0q8.E5xy4LwTxQTRKb6lH5eBokFoFDgWZ5m"
+    },
+    {
+        "id": 29,
+        "email": "test12345@gmail.com",
+        "password": "$2y$10$WRfpRE9I5BE1cLkJ8k5rPOwNYdRo4.nEzTrrNIB71O6RRwoTnogcC"
+    }
+]

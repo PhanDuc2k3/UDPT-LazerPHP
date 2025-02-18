@@ -1,0 +1,8 @@
+{
+    "name": "users",
+    "fields": {
+        "id": "integer",
+        "username": "string",
+        "email": "string"
+    }
+}
